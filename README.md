@@ -1,5 +1,7 @@
 # I18nApp
 
+![Screenshot 2023-10-25 053654](https://github.com/beardedbrainiac/internationalization-app/assets/44918452/87ef0e29-71f2-4349-9e51-831dc49aadf9)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
 
 ## Development server
